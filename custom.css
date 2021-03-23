@@ -1,0 +1,544 @@
+//  HAPYAK CUSTOM CSS
+
+.hapyak-contents-column1.expanded {
+  /* reset background of ch menu */
+  background: rgba(255, 255, 255, 0);
+}
+
+.popcorn-contents.top-left.active.hapyak-contents-legacy.visible.expanded {
+  background: none;
+  border-radius: 0;
+}
+
+.popcorn-contents.top-left.active.hapyak-contents-legacy.visible.expanded .popcorn-contents-inner {
+  border-radius: 0;
+  padding: 0;
+  
+    background: rgba(248, 249, 250, 0.7);
+  
+}
+
+.popcorn-contents.top-left.active.hapyak-contents-legacy.visible.expanded .popcorn-contents-close {
+  background-color: rgba(255, 255, 255, 0);
+}
+
+.popcorn-contents.top-left.active.hapyak-contents-legacy.visible.expanded .popcorn-contents-close span {
+  background-color: rgba(255, 255, 255, 0);
+  font-size: 50px;
+}
+
+.popcorn-contents.top-left.active.hapyak-contents-legacy.visible.expanded .popcorn-contents-close {
+  right: 10px;
+  top: 7px;
+  
+    color: rgb(255, 255, 255);
+  
+}
+.popcorn-contents.top-left.active.hapyak-contents-legacy.visible.expanded .popcorn-contents-close :hover {
+  
+    color: rgb(23, 78, 166);
+  
+}
+
+.hapyak-contents-legacy.collapsed h3.popcorn-contents-title {
+  
+    background: rgba(66, 133, 244, .8);
+  
+  
+    color: rgb(255, 255, 255);
+  
+}
+
+.hapyak-contents-legacy.expanded h3.popcorn-contents-title {
+  
+    background: rgba(66, 133, 244, .8);
+  
+  
+    color: rgb(255, 255, 255);
+  
+  padding: 30px 20px;
+}
+
+.popcorn-contents.top-left.active.hapyak-contents-legacy.visible.expanded .popcorn-contents-hidden {
+  margin-top: 0;
+}
+
+.popcorn-contents.top-left.active.hapyak-contents-legacy.visible.expanded ul {
+  margin-top: 0;
+}
+
+.popcorn-contents.top-left.active.hapyak-contents-legacy.visible.expanded ul li {
+  
+    color: rgb(26, 115, 232);
+  
+  padding: 20px;
+}
+.popcorn-contents.top-left.active.hapyak-contents-legacy.visible.expanded ul :hover, .popcorn-contents.top-left.active.hapyak-contents-legacy.visible.expanded ul :active {
+  
+    color: rgb(23, 78, 166);
+  
+}
+
+.hapyak-contents-column1.expanded .popcorn-contents-title {
+  
+    background: rgba(66, 133, 244, .8);
+  
+  
+    color: rgb(255, 255, 255);
+  
+  margin-bottom: 0px;
+  padding: 15px;
+}
+
+.hapyak-contents-column1.collapsed h3.popcorn-contents-title,
+.hapyak-contents-column1.expanded h3.popcorn-contents-title {
+  /* expanded chapter menu title */
+  
+    background: rgba(66, 133, 244, .8);
+  
+  
+    color: rgb(255, 255, 255);
+  
+  margin-bottom: 0;
+  padding: 15px;
+}
+
+.hapyak-contents-column1.expanded .popcorn-contents-inner {
+  /* expanded chapter menu body */
+  
+    color: rgb(255, 255, 255);
+  
+  padding-top: 27px;
+}
+
+.hapyak-contents-column1.expanded {
+  
+    background: rgba(248, 249, 250, 0.7);
+  
+}
+
+.hapyak-contents-column1.expanded .popcorn-contents-close {
+  background: rgba(255, 255, 255, 0);
+  border: none;
+  right: 10px;
+  font-size: 3em;
+  line-height: 10px;
+}
+
+.hapyak-contents-column1.expanded .popcorn-contents-close:hover {
+  
+    color: rgb(23, 78, 166);
+  
+}
+
+
+.popcorn-contents-inner li {
+  /* chapter li */
+  
+    color: rgb(26, 115, 232);
+  
+}
+
+.hapyak-contents-column1 .popcorn-contents-list > li:hover,
+.hapyak-contents-column1 .popcorn-contents-list > li.active {
+  /* chapter li */
+  
+    color: rgb(23, 78, 166);
+  
+}
+
+.popcorn-pop.hapyak-theme-black.active {
+  /* default pop */
+  
+    background: rgba(198, 202, 206, 0.8);
+  
+  
+    color: rgb(95, 99, 104);
+
+  
+    border-left: 5px solid rgb(251, 188, 4);
+  
+  
+    border-right: 0px solid rgb(0, 0, 0) ;
+  
+  
+    border-top: 0px solid rgb(0, 0, 0);
+  
+  
+    border-bottom: 0px solid rgb(0, 0, 0);
+  
+}
+
+.popcorn-pop.hapyak-theme-black.active:hover {
+  /* default pop */
+  
+  
+}
+
+.hapyak-annotation-container > .hapyak-linked:hover:not(.hapyak-theme-pop) {
+  box-shadow: none;
+}
+
+/* Partnerhips buttons test */
+.popcorn-pop.hapyak-theme-partnerships.active {
+  /* default pop */
+  
+    background: rgba(198, 202, 206, 0.8);
+  
+  
+    color: rgb(95, 99, 104);
+  
+    font-size: 30px;
+  
+    border-left: 5px solid rgb(251, 188, 4);
+  
+  
+    border-right: 0px solid rgb(0, 0, 0) ;
+  
+  
+    border-top: 0px solid rgb(0, 0, 0);
+  
+  
+    border-bottom: 0px solid rgb(0, 0, 0);
+  
+}
+
+
+/* ------------------------------------------------------------ */
+/*                      QUIZ ANNOTATION                         */
+/* ------------------------------------------------------------ */
+/* QUIZ BG COLOR AND CURVE */
+.popcorn-quiz:not(.hapyak-editing-quiz) .hapyak-quiz-container {
+  
+    background: rgba(249, 249, 250, 1);
+  
+  
+    border: 0px solid rgb(255, 255, 255);
+  
+  
+    -moz-border-radius: 20px;
+  -webkit-border-radius: 20px;
+  border-radius: 20px;
+  
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+  overflow: hidden;
+}
+
+/* ADJUSTING PADDING FOR HEADER */
+.popcorn-quiz:not(.hapyak-editing-quiz) .hapyak-quiz-builder.viewer {
+  padding: 0;
+  margin-bottom: 5px;
+}
+.popcorn-quiz:not(.hapyak-editing-quiz) .hapyak-quiz-builder.viewer .questions {
+  margin: 0;
+}
+
+.popcorn-quiz:not(.hapyak-editing-quiz) .hapyak-quiz-builder {
+  padding: 0;
+}
+
+/* QUIZ HEADER STYLE */
+.popcorn-quiz:not(.hapyak-editing-quiz) .hapyak-quiz-builder.viewer .question-text {
+  margin-top: -10px;
+  padding-top: 30px;
+  padding-bottom: 10px;
+  
+    background: rgba(249, 249, 250, 1);
+  
+  font-weight: 300;
+  
+    color: rgb(24, 90, 188);
+  
+  text-align: center;
+  width: auto;
+  margin-bottom: 20px;
+}
+
+/* QUIZ ANSWER TEXT */
+.popcorn-quiz:not(.hapyak-editing-quiz) .hapyak-quiz-builder.viewer .label-text {
+  
+    color: rgb(95, 99, 104);
+  
+}
+
+/* QUIZ THANK YOU MESSAGE TEXT */
+.popcorn-quiz:not(.hapyak-editing-quiz) .hapyak-quiz-builder.viewer .thank-you {
+  
+    color: rgb(95, 99, 104);
+  
+  font-family: "Roboto", "Helvetica", sans-serif;
+  font-weight: 400;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+/* INCORRECT ANSWER STYLING */
+.popcorn-quiz:not(.hapyak-editing-quiz) .hapyak-quiz-builder.viewer .incorrect {
+  margin: 20px;
+}
+
+/* QUIZ REVIEW ANSWER TEXT */
+.popcorn-quiz:not(.hapyak-editing-quiz) .hapyak-quiz-builder .answer > pre {
+  
+    color: rgb(95, 99, 104);
+  
+}
+
+/* QUIZ REVIEW ANSWER TEXT POSITION */
+.popcorn-quiz:not(.hapyak-editing-quiz) .hapyak-quiz-builder.viewer .summary .answer {
+  margin-left: 15px;
+}
+
+/* QUIZ REVIEW BOX POSITION */
+.hapyak-annotation-container .popcorn-quiz.hapyak-review-screen > .hapyak-quiz-container, .hapyak-skeleton-annotation-container .popcorn-quiz.hapyak-review-screen > .hapyak-quiz-container {
+  top: 100px;
+}
+
+/* QUESTION ALIGNMENT */
+.popcorn-quiz:not(.hapyak-editing-quiz) .hapyak-quiz-builder.viewer .questions {
+  overflow: hidden;
+}
+
+/*button.btn.btn-large.submit-answers.btn-success.disabled {
+  background: gray;
+  border-color: gray;
+  box-shadow: none;
+  text-shadow: none;
+}*/
+.popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.submit-answers.btn-success {
+  
+    background: rgb(52, 168, 83);
+  
+  
+    color: rgb(255, 255, 255);
+  
+  
+    border: 3px solid rgb(238, 238, 238);
+  
+  box-shadow: none;
+  text-shadow: none;
+  border-radius: 0px;
+}
+
+/*button.btn.btn-large.submit-answers.btn-success.disabled {
+  border: 3px solid #d1d1d1;
+}*/
+/* SUBMIT BUTTON DISABLED HOVER */
+/*button.btn.btn-large.btn-primary.submit-answers.disabled:hover {
+  background: #d1d1d;
+  cursor: not-allowed;
+}*/
+/* NEXT BUTTON */
+.popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.btn-primary.submit-answers {
+  
+    background: rgb(52, 168, 83);
+  
+  
+    color: rgb(255, 255, 255);
+  
+  
+    border: 3px solid rgb(238, 238, 238);
+  
+  box-shadow: none;
+  text-shadow: none;
+  border-radius: 0px;
+}
+
+/* SUBMIT BUTTON HOVER */
+/*button.btn.btn-large.btn-primary.submit-answers:hover {
+  
+    background: rgb(52, 168, 83);
+  
+}*/
+/* DONE BUTTON */
+.popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.btn-primary.ok {
+  
+    background: rgb(52, 168, 83);
+  
+  
+    color: rgb(255, 255, 255);
+  
+  
+    border: 3px solid rgb(238, 238, 238);
+  
+}
+
+/* CANCEL BUTTON */
+.popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.skip.hide {
+  border: 3px solid lightgray;
+  border-radius: 0px;
+  
+    color: rgb(255, 255, 255);
+  
+  
+    background: rgb(154, 160, 166);
+  
+  text-shadow: none;
+  box-shadow: none;
+}
+
+/* CANCEL BUTTON HOVER */
+.popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.skip.hide:hover {
+  border-color: gray;
+  color: gray;
+}
+
+/* QUIZ BACK BUTTON */
+.popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.go-back {
+  color: white;
+  background: gray;
+  border: 3px solid gray;
+  box-shadow: none;
+  text-shadow: none;
+}
+
+/* QUIZ BACK BUTTON HOVER */
+.popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.go-back:hover {
+  background-color: #d3d3d3;
+  border-color: #d3d3d3;
+}
+
+/* +INPUT BUTTON */
+button.new-text-choice.btn.btn-large {
+}
+
+/* QUIZ ANSWER FONT */
+.hapyak-annotation-container .popcorn-contents, .hapyak-annotation-container .popcorn-quiz, .hapyak-skeleton-annotation-container .popcorn-contents, .hapyak-skeleton-annotation-container .popcorn-quiz {
+  font-family: "Roboto", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+}
+
+/* QUIZ SHORT ANSWER FONT */
+.hapyak-root input, .hapyak-root button, .hapyak-root select, .hapyak-root textarea {
+  font-family: "Roboto", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+}
+
+/* ANSWER PADDING */
+.popcorn-quiz:not(.hapyak-editing-quiz) .hapyak-quiz-builder input[type=checkbox] + label > .hapyak-select, .hapyak-player .hapyak-quiz-builder:not(.editor) input[type=checkbox]:checked + label > .hapyak-select {
+  margin-left: 40px;
+}
+
+.hapyak-player .quiz-viewer .answers .answer > input[type=radio] + label, .hapyak-player .quiz-viewer .answers .answer > input[type=checkbox] + label {
+  margin-left: 40px;
+}
+
+/* ANSWER FONT COLOR */
+.hapyak-player .hapyak-quiz-builder.viewer .label-text {
+  color: #63666a;
+}
+
+/* QUIZ BUTTON FORMATING */
+.hapyak-player .hapyak-quiz-builder.viewer .btn {
+  margin: -40px 15px 15px 5px;
+}
+
+.hapyak-player .hapyak-quiz-builder i {
+  color: white;
+}
+
+.popcorn-quiz:not(.hapyak-editing-quiz) .hapyak-review-screen .hapyak-quiz-builder.viewer .question-text {
+  
+    color: rgb(95, 99, 104);
+  
+  background: rgba(255, 255, 255, 0);
+}
+
+.popcorn-quiz:not(.hapyak-editing-quiz) .hapyak-review-screen .hapyak-quiz-builder.viewer .thank-you {
+  
+    background: rgba(249, 249, 250, 1);
+  
+  
+    color: rgb(24, 90, 188);
+  
+  width: 100%;
+}
+
+.popcorn-hotlink.active {
+  
+    background-color: rgba(32, 33, 36, 0);
+  
+}
+
+
+
+.vjs-v6 > button:before {
+    position: relative !important;
+    color: rgb(204,204,204);
+}
+
+
+.vjs-v6 div.vjs-control-bar > button.vjs-fullscreen-control.vjs-control.vjs-button{
+    /* position: relative !important; */
+    top: -21px !important;
+    border-width: 0px;
+    background: transparent;
+    font-family: videoJS;
+    color: rgb(204,204,204);
+}
+
+.vjs-v6 div.vjs-control-bar > div.vjs-progress-control.vjs-control > div > div.vjs-mouse-display > div {
+    display: none;
+}
+
+.vjs-v6 div.vjs-control-bar > div.vjs-progress-control.vjs-control > div > div.vjs-play-progress.vjs-slider-bar > div {
+    display: none;
+}
+
+
+.vjs-v6 > div.vjs-control-bar > div.vjs-volume-panel.vjs-control.vjs-volume-panel-horizontal > button {
+    background: transparent;
+    border-width: 0;
+    color: rgb(204,204,204);
+}
+
+div.vjs-control-bar > div.vjs-volume-panel.vjs-control.vjs-volume-panel-horizontal {
+    left: 50%
+}
+
+@media screen and (max-width: 1400px) {
+    div.vjs-control-bar > div.vjs-volume-panel.vjs-control.vjs-volume-panel-horizontal {
+        left: 82.5%;
+    }
+}
+
+@media screen and (max-width: 1100) {
+    div.vjs-control-bar > div.vjs-volume-panel.vjs-control.vjs-volume-panel-horizontal {
+        left: 76.5%;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    div.vjs-control-bar > div.vjs-volume-panel.vjs-control.vjs-volume-panel-horizontal {
+        left: 74.5%;
+    }
+}
+
+.vjs-v6 > div.vjs-control-bar > div.vjs-volume-panel.vjs-control.vjs-volume-panel-horizontal > div > div {
+    /* position: relative; */
+    left: 50px;
+    top: -28px;
+}
+
+.vjs-v6 > div.vjs-control-bar > button.vjs-play-control.vjs-control.vjs-button { 
+    background: transparent;
+    border-width: 0px;
+    color: rgb(204,204,204);
+}
+
+.vjs-v6 > div.vjs-control-bar > div.vjs-current-time.vjs-time-control.vjs-control {
+    top: 5px;
+}
+
+.vjs-v6 > div.vjs-control-bar > div.vjs-duration.vjs-time-control.vjs-control {
+    top: 5px;
+}
+
+.vjs-v6 > button {
+    border-color: transparent;
+}
