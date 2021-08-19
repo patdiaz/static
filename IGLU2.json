@@ -1,7 +1,7 @@
 [
-{"name":"IGLU.Product.Pillar1","imports":["IGLU.Audience.Internal","IGLU.Educator.GooglerInstructor","IGLU.Technology.BigData","IGLU.Learner.GooglerTechnical","IGLU.Learner.GooglerProgramParticipant","IGLU.Learner.Noogler","IGLU.Learner.GooglerGeneral","IGLU.Curator.GooglerContentCreator"]},
-{"name":"IGLU.Product.Pillar2","imports":["IGLU.Audience.External","IGLU.Educator.K12Teacher","IGLU.Technology.BigData","IGLU.Technology.Marketplace","IGLU.Learner.K12Student","IGLU.Learner.CollegeStudent","IGLU.Curator.NonGoogleDeveloper"]},
-{"name":"IGLU.Product.Pillar3","imports":["IGLU.Audience.External","IGLU.Educator.K12Teacher","IGLU.Technology.BigData","IGLU.Technology.AI","IGLU.Technology.Gamification","IGLU.Learner.GooglerGeneral","IGLU.Learner.GooglerProgramParticipant","IGLU.Learner.K12Student","IGLU.Learner.CollegeStudent","IGLU.Learner.K12IndependentLearner","IGLU.Learner.AdultIndependentLearner","IGLU.Learner.GooglerProgramParticipant","IGLU.Learner.GooglerGeneral"]},
+{"name":"IGLU.Pillar.Pillar1","imports":["IGLU.Audience.Internal","IGLU.Educator.GooglerInstructor","IGLU.Technology.BigData","IGLU.Learner.GooglerTechnical","IGLU.Learner.GooglerProgramParticipant","IGLU.Learner.Noogler","IGLU.Learner.GooglerGeneral","IGLU.Curator.GooglerContentCreator"]},
+{"name":"IGLU.Pillar.Pillar2","imports":["IGLU.Audience.External","IGLU.Educator.K12Teacher","IGLU.Technology.BigData","IGLU.Technology.Marketplace","IGLU.Learner.K12Student","IGLU.Learner.CollegeStudent","IGLU.Curator.NonGoogleDeveloper"]},
+{"name":"IGLU.Pillar.Pillar3","imports":["IGLU.Audience.External","IGLU.Educator.K12Teacher","IGLU.Technology.BigData","IGLU.Technology.AI","IGLU.Technology.Gamification","IGLU.Learner.GooglerGeneral","IGLU.Learner.GooglerProgramParticipant","IGLU.Learner.K12Student","IGLU.Learner.CollegeStudent","IGLU.Learner.K12IndependentLearner","IGLU.Learner.AdultIndependentLearner","IGLU.Learner.GooglerProgramParticipant","IGLU.Learner.GooglerGeneral"]},
 {"name":"IGLU.Audience.Internal"},
 {"name":"IGLU.Audience.External"},
 {"name":"IGLU.Educator.GooglerInstructor"},
