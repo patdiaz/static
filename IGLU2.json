@@ -1,7 +1,7 @@
 [
-{"name":"Mecate.Product.PillarOne","imports":["Mecate.Year.Internal","Mecate.Focus.InnovationCulture","Mecate.Focus.RethinkingLearning","Mecate.Technology.BigData","Mecate.FinalUser.SchoolAdmins","Mecate.FinalUser.Teachers","Mecate.Domain.PedagogicalResources","Mecate.Domain.Learning"]},
-{"name":"Mecate.Product.PillarTwo","imports":["Mecate.Year.External","Mecate.Focus.MeasuringLearning","Mecate.Technology.BigData","Mecate.Technology.Marketplace","Mecate.FinalUser.SchoolAdmins","Mecate.FinalUser.Students","Mecate.Domain.Learning","Mecate.Domain.Policy"]},
-{"name":"Mecate.Product.PillarThree","imports":["Mecate.Year.External","Mecate.Focus.MeasuringLearning","Mecate.Focus.DeeperLearning","Mecate.Technology.BigData","Mecate.Technology.AI","Mecate.Technology.Gamification","Mecate.FinalUser.Teachers","Mecate.FinalUser.Students","Mecate.Domain.PedagogicalResources"]},
+{"name":"Mecate.Product.PillarOne","imports":["Mecate.Year.Internal","Mecate.Focus.InnovationCulture","Mecate.Focus.RethinkingLearning","Mecate.Technology.BigData","Mecate.FinalUser.GooglerTechnical","Mecate.FinalUser.GooglerProgramParticipant","Mecate.FinalUser.Noogler","Mecate.FinalUser.GooglerGeneral","Mecate.Domain.PedagogicalResources","Mecate.Domain.Learning"]},
+{"name":"Mecate.Product.PillarTwo","imports":["Mecate.Year.External","Mecate.Focus.MeasuringLearning","Mecate.Technology.BigData","Mecate.Technology.Marketplace","Mecate.FinalUser.StudentK12","Mecate.FinalUser.StudentCollege","Mecate.Domain.Learning","Mecate.Domain.Policy"]},
+{"name":"Mecate.Product.PillarThree","imports":["Mecate.Year.External","Mecate.Focus.MeasuringLearning","Mecate.Focus.DeeperLearning","Mecate.Technology.BigData","Mecate.Technology.AI","Mecate.Technology.Gamification","Mecate.FinalUser.GooglerGeneral","Mecate.FinalUser.GooglerProgramParticipant","Mecate.FinalUser.StudentK12","Mecate.FinalUser.StudentCollege","Mecate.Domain.PedagogicalResources"]},
 {"name":"Mecate.Year.Internal"},
 {"name":"Mecate.Year.External"},
 {"name":"Mecate.Focus.LearningSpaceRedesign"},
