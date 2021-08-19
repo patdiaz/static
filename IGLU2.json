@@ -35,7 +35,5 @@
 {"name":"IGLU.Curator.NonTechnicalProfessional"},
 {"name":"IGLU.Curator.NonGoogleDeveloper"},
 {"name":"IGLU.Curator.GooglerEngEDUPartner"},
-{"name":"IGLU.Curator.GooglerContentCreator"},
-{"name":"IGLU.Curator.Administration"},
-{"name":"IGLU.Curator.Policy"}
+{"name":"IGLU.Curator.GooglerContentCreator"}
 ]
