@@ -1,6 +1,6 @@
 [
-{"name":"IGLU.Pillar.PillarOne","imports":["IGLU.Audience.Internal","IGLU.MetaUser.Learner","IGLU.MetaUser.Educator","IGLU.MetaUser.Curator","IGLU.FinalUser.GooglerTechnical","IGLU.FinalUser.GooglerNoogler","IGLU.FinalUser.GooglerGeneral","IGLU.FinalUser.GooglerInstructor","IGLU.FinalUser.GooglerContentCreator","IGLU.Expertise.Novice"]},
-{"name":"IGLU.Pillar.PillarTwo","imports":["IGLU.Audience.External","IGLU.MetaUser.Learner","IGLU.MetaUser.Educator","IGLU.MetaUser.Curator","IGLU.FinalUser.GooglerTechnical","IGLU.FinalUser.GooglerNoogler","IGLU.FinalUser.GooglerGeneral","IGLU.FinalUser.GooglerInstructor","IGLU.FinalUser.GooglerContentCreator","IGLU.ProductProgram.CSFirst"]},
+{"name":"IGLU.Pillar.PillarOne","imports":["IGLU.Audience.Internal","IGLU.MetaUser.Learner","IGLU.MetaUser.Educator","IGLU.MetaUser.Curator","IGLU.FinalUser.GooglerTechnical","IGLU.FinalUser.GooglerNoogler","IGLU.FinalUser.GooglerGeneral","IGLU.FinalUser.GooglerInstructor","IGLU.FinalUser.GooglerContentCreator"]},
+{"name":"IGLU.Pillar.PillarTwo","imports":["IGLU.Audience.External","IGLU.MetaUser.Learner","IGLU.MetaUser.Educator","IGLU.MetaUser.Curator","IGLU.FinalUser.GooglerTechnical","IGLU.FinalUser.GooglerNoogler","IGLU.FinalUser.GooglerGeneral","IGLU.FinalUser.GooglerInstructor","IGLU.FinalUser.GooglerContentCreator"]},
 {"name":"IGLU.Pillar.PillarThree","imports":["IGLU.Audience.External","IGLU.MetaUser.Learner","IGLU.MetaUser.Educator","IGLU.FinalUser.GooglerTechnical","IGLU.FinalUser.GooglerNoogler","IGLU.FinalUser.GooglerGeneral,IGLU.FinalUser.GooglerInstructor,IGLU.FinalUser.GooglerContentCreator"]},
 {"name":"IGLU.Audience.Internal"},
 {"name":"IGLU.Audience.External"},
@@ -20,7 +20,5 @@
 {"name":"IGLU.FinalUser.LearnerInformal"},
 {"name":"IGLU.FinalUser.LearnerAdult"},
 {"name":"IGLU.FinalUser.EducatorK12"},
-{"name":"IGLU.FinalUser.DeveloperNonGoogler"},
-{"name":"IGLU.ProductProgram.CSFirst"},
-{"name":"IGLU.Expertise.Novice"}
+{"name":"IGLU.FinalUser.DeveloperNonGoogler"}
 ]
