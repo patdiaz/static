@@ -1,9 +1,8 @@
 [
-{"name":"IGLU.Pillar.Pillar1","imports":["IGLU.Audience.Internal","IGLU.Educator.GooglerInstructor","IGLU.Learner.GooglerTechnical","IGLU.Learner.GooglerProgramParticipant","IGLU.Learner.Noogler","IGLU.Learner.GooglerGeneral","IGLU.Curator.GooglerContentCreator"]},
-{"name":"IGLU.Pillar.Pillar2","imports":["IGLU.Audience.External","IGLU.Educator.K12Teacher","IGLU.Learner.K12Student","IGLU.Learner.CollegeStudent","IGLU.Curator.NonGoogleDeveloper"]},
-{"name":"IGLU.Pillar.Pillar3","imports":["IGLU.Audience.External","IGLU.Educator.K12Teacher","IGLU.Learner.GooglerGeneral","IGLU.Learner.GooglerProgramParticipant","IGLU.Learner.K12Student","IGLU.Learner.CollegeStudent","IGLU.Learner.K12IndependentLearner","IGLU.Learner.AdultIndependentLearner","IGLU.Learner.GooglerProgramParticipant","IGLU.Learner.GooglerGeneral"]},
-{"name":"IGLU.Audience.Internal"},
-{"name":"IGLU.Audience.External"},
+{"name":"IGLU.Pillar.Pillar1","imports":["IGLU.Educator.GooglerInstructor","IGLU.Learner.GooglerTechnical","IGLU.Learner.GooglerProgramParticipant","IGLU.Learner.Noogler","IGLU.Learner.GooglerGeneral","IGLU.Curator.GooglerContentCreator"]},
+{"name":"IGLU.Pillar.Pillar2","imports":["IGLU.Educator.K12Teacher","IGLU.Learner.K12Student","IGLU.Learner.CollegeStudent","IGLU.Curator.NonGoogleDeveloper"]},
+{"name":"IGLU.Pillar.Pillar3","imports":["IGLU.Educator.K12Teacher","IGLU.Learner.GooglerGeneral","IGLU.Learner.GooglerProgramParticipant","IGLU.Learner.K12Student","IGLU.Learner.CollegeStudent","IGLU.Learner.K12IndependentLearner","IGLU.Learner.AdultIndependentLearner","IGLU.Learner.GooglerProgramParticipant","IGLU.Learner.GooglerGeneral"]},
+{"name":"IGLU.Researcher.GooglerLearningAnalyst"},
 {"name":"IGLU.Educator.GooglerInstructor"},
 {"name":"IGLU.Educator.K12Teacher"},
 {"name":"IGLU.Educator.CollegeProfessor"},
